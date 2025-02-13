@@ -37,7 +37,7 @@ This project follows [Semantic Versioning](https://semver.org/).
 To upgrade to a specific version, use:
 
 ```sh
-go get github.com/username/greetings@v1.0.0
+go get github.com/agisnarevaldo/greetings@v1.0.0
 ```
 
 ## License
